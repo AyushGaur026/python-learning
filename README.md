@@ -32,6 +32,43 @@ This repository contains my daily Python practice from beginner to advanced. I a
 - Positive/Negative Program
 - Grade Checker
 
+### ✅ Day 4
+- Lists
+- List Methods
+- List Slicing
+- List Operations
+- Practice Programs
+
+### ✅ Day 5
+- Tuples
+- Tuple Methods
+- Dictionary
+- Dictionary Methods
+- Sets
+- Set Methods
+
+### ✅ Day 6
+- While Loop
+- For Loop
+- Range Function
+- Loop Control Statements
+- Practice Programs
+
+### ✅ Day 7
+- Functions
+- Function Arguments
+- Return Statement
+- Recursion
+- Recursive Programs
+
+### ✅ Day 8
+- File Handling
+- Reading Files
+- Writing Files
+- Appending Data
+- Deleting Files
+- Practice Programs
+
 ---
 
 ## 🛠 Technologies Used
@@ -47,21 +84,28 @@ This repository contains my daily Python practice from beginner to advanced. I a
 
 - Learn Python from Beginner to Advanced
 - Master Problem Solving
+- Learn Data Structures & Algorithms (DSA)
+- Learn Object-Oriented Programming (OOP)
 - Learn Full Stack Development
 - Learn AI Integration
 - Build Real Projects
-- Prepare for Software Developer Placement
+- Prepare for Software Developer Placements
 
 ---
 
 ## 📂 Repository Structure
 
-```
+```text
 python-learning/
 │
-├── day-1/
-├── day-2/
-├── day-3/
+├── Day-1/
+├── Day-2/
+├── Day-3/
+├── Day-4/
+├── Day-5/
+├── Day-6/
+├── Day-7/
+├── Day-8/
 └── README.md
 ```
 
@@ -72,8 +116,13 @@ python-learning/
 - ✅ Day 1 Completed
 - ✅ Day 2 Completed
 - ✅ Day 3 Completed
+- ✅ Day 4 Completed
+- ✅ Day 5 Completed
+- ✅ Day 6 Completed
+- ✅ Day 7 Completed
+- ✅ Day 8 Completed
 
-More updates coming soon...
+🚀 More updates coming soon...
 
 ---
 
@@ -81,4 +130,10 @@ More updates coming soon...
 
 **Ayush Kumar Gaur**
 
-BCA Student | Python Learner | Future Full Stack Developer 🚀
+🎓 BCA Student  
+🐍 Python Learner  
+💻 Future Full Stack Developer 🚀
+
+---
+
+⭐ If you like this repository, don't forget to give it a star!
