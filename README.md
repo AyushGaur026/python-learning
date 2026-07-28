@@ -1,10 +1,12 @@
 # 🐍 Python Learning Journey
 
-Welcome to my Python learning repository!
+Welcome to my Python Learning Repository! 🚀
 
-This repository contains my daily Python practice from beginner to advanced. I am learning Python step by step and uploading my code every day.
+This repository documents my journey of learning Python from beginner to advanced. I practice Python daily, solve problems, and build projects to improve my programming skills.
 
-## 📅 Progress
+---
+
+## 📚 Learning Progress
 
 ### ✅ Day 1
 - Python Introduction
@@ -42,7 +44,7 @@ This repository contains my daily Python practice from beginner to advanced. I a
 ### ✅ Day 5
 - Tuples
 - Tuple Methods
-- Dictionary
+- Dictionaries
 - Dictionary Methods
 - Sets
 - Set Methods
@@ -51,7 +53,7 @@ This repository contains my daily Python practice from beginner to advanced. I a
 - While Loop
 - For Loop
 - Range Function
-- Loop Control Statements
+- Loop Control Statements (`break`, `continue`, `pass`)
 - Practice Programs
 
 ### ✅ Day 7
@@ -80,15 +82,15 @@ This repository contains my daily Python practice from beginner to advanced. I a
 
 ---
 
-## 🎯 Goal
+## 🎯 Goals
 
 - Learn Python from Beginner to Advanced
 - Master Problem Solving
 - Learn Data Structures & Algorithms (DSA)
 - Learn Object-Oriented Programming (OOP)
+- Build Real-World Python Projects
 - Learn Full Stack Development
 - Learn AI Integration
-- Build Real Projects
 - Prepare for Software Developer Placements
 
 ---
@@ -106,23 +108,18 @@ python-learning/
 ├── Day-6/
 ├── Day-7/
 ├── Day-8/
+│
 └── README.md
 ```
 
 ---
 
-## 🚀 Current Status
+## 📈 Current Status
 
-- ✅ Day 1 Completed
-- ✅ Day 2 Completed
-- ✅ Day 3 Completed
-- ✅ Day 4 Completed
-- ✅ Day 5 Completed
-- ✅ Day 6 Completed
-- ✅ Day 7 Completed
-- ✅ Day 8 Completed
-
-🚀 More updates coming soon...
+- ✅ Python Basics Completed
+- ✅ Daily Practice
+- ✅ GitHub Daily Updates
+- 🚀 Continuously Learning and Improving
 
 ---
 
@@ -130,9 +127,10 @@ python-learning/
 
 **Ayush Kumar Gaur**
 
-🎓 BCA Student  
+🎓 MCA Student  
 🐍 Python Learner  
-💻 Future Full Stack Developer 🚀
+💻 Future Software Developer  
+🚀 Future Full Stack Developer
 
 ---
 
