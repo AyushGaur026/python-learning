@@ -70,6 +70,8 @@ This repository documents my journey of learning Python from beginner to advance
 - Appending Data
 - Deleting Files
 - Practice Programs
+- Learned Python Functions (Basics)
+- Difference between print() and return
 
 ---
 
